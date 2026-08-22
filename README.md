@@ -55,11 +55,6 @@ Containerized Kafka + Docker pipeline streaming simulated data into PostgreSQL, 
 **[AGI Research Trends](https://github.com/Mitul060299/Data-Visualization-and-Insights-on-AGI-Trends)**
 Scraped 500+ arXiv papers to quantify a 1,500% rise in AGI research output and a 1,814% surge in AI investment (2013–2023).
 
-### GitHub stats
+### Let's connect
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mitul060299&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitul060299&layout=compact&hide_border=true" />
-
-</div>
+📫 [srivastavamitul00@gmail.com](mailto:srivastavamitul00@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/mitul-srivastava/) &nbsp;|&nbsp; [Portfolio](https://mitul-srivastava-lqmvvxv.gamma.site/)
