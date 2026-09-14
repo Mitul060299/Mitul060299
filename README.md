@@ -4,7 +4,7 @@
 
 **Data Scientist · MSc Data Science (Ireland) · Ex-EY GDS**
 
-Turning messy data into decisions — for audits, sales pipelines, and full-stack AI products.
+I build the analytics that explain data and the AI systems that act on it.
 
 📫 srivastavamitul00@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/mitul-srivastava/) &nbsp;|&nbsp; [Portfolio](https://mitul-srivastava-lqmvvxv.gamma.site/)
 
@@ -17,7 +17,7 @@ Turning messy data into decisions — for audits, sales pipelines, and full-stac
 - 🎓 MSc Data Science, South East Technological University, Ireland — recipient of the Government of Ireland International Education Scholarship
 - 💼 Previously **Advanced Associate, Data Analytics** at EY Global Delivery Services — automated audit workflows in Alteryx, cut review turnaround by 10%, reduced manual effort by ~25%
 - 🔭 Currently open to **Data Science / Data Analytics / ML Engineering** roles
-- 🌱 Comfortable across the stack — from Power BI reporting to shipping full-stack AI products end to end
+- 🌱 Stack: SQL, Python (Pandas), Alteryx, Power BI, ML, DL, LLMs, NLP
 
 ### Skills
 
